@@ -33,3 +33,10 @@ npm run build
 ```
 
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
+
+
+https://github.com/Reetool16/Chrome-Extension/blob/main/WIN_20240302_15_20_17_Pro.mp4
+<video width="640" height="360" controls>
+  <source src="https://github.com/Reetool16/Chrome-Extension/blob/main/WIN_20240302_15_20_17_Pro.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
